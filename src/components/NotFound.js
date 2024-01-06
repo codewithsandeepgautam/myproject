@@ -7,7 +7,7 @@ function NotFound() {
             oops!
         </h1>
         <h2 className="head-center2">
-            404 - PAGE NOT FOUND
+             PAGE FOUND
         </h2>
         <div className="div-para">
         <p className="para-1">The page you are looking for might have been removed had its name changed or its temporary unavailable</p>
